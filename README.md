@@ -1,1 +1,1 @@
-# rails-data-structures-and-algorithms
+# ruby-data-structures-and-algorithms
